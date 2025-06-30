@@ -13,7 +13,7 @@ for x in range(number + 1):
     print(f"{number} x {x} = {number * x}")
 '''    
 
-#3 - prices of fruit
+#3 - prices of fruit per kg
 
 fruits = {'apple': 50, 
           'banana': 30, 
